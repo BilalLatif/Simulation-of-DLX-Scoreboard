@@ -1,12 +1,14 @@
 # Simulation of DLX Scoreboard
 
+This is a DLX Scoreboard Simulation on C++. It includes Basic operation that is: ADD, SUB, MUL, DIV and Branch (Loop).
+
 Developed by:
 
-Bilal Latif (Lead Programmer)
+- Bilal Latif
 
-Muhammad Faizan Uddin
+- Muhammad Faizan Uddin
 
-Mubashir Baig
+- Mubashir Baig
 
-Ali Raza
+- Ali Raza
 
