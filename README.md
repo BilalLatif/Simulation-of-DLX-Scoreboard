@@ -4,7 +4,7 @@ This is a DLX Scoreboard Simulation on C++. It includes Basic operation that is:
 
 Developed by:
 
-- Bilal Latif
+- Bilal Latif (Lead Programmer)
 
 - Muhammad Faizan Uddin
 
